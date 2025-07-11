@@ -29,10 +29,3 @@
 ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 ---
-
-### 🔥 Projects
-| Project | Tech Stack | Description |
-|---------|------------|-------------|
-| [Resort Management App](link) | Android Studio, Java, XML | Custom resort booking application with real-time features |
-| [Gym Management System](link) | HTML, CSS, PHP, MySQL | Full-stack web application for gym administration |
-| [Network Simulation](link) | Cisco Packet Tracer | Designed and implemented complex network topologies |
