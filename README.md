@@ -6,7 +6,7 @@
 - 💡 Passionate about **full-stack development** and creating **intuitive UI/UX designs**
 - 🌱 Currently learning **React, C#, and RESTful APIs**
 - 🎨 Have a keen eye for **clean, user-centric interfaces**
-- 📫 How to reach me: **kavindirajapakshagithub@gmail.com**
+- 📫 How to reach me: **kavindiiirajapakshe@gmail.com**
 
 ---
 
