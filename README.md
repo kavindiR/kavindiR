@@ -2,10 +2,10 @@
 <!--  SOCIAL LINKS ON TOP -->
 <!-- ========================= -->
 <p align="center">
-  <a href="www.linkedin.com/in/kavindirajapaksha" >
+  <a href="https://www.linkedin.com/in/kavindirajapaksha/" >
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="kavindiiirajapakshe@gmail.com">
+  <a href="mailto:kavindiiirajapakshe@gmail.com">
     <img src="https://img.shields.io/badge/Email-DB4437?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://kavindirajapaksha.vercel.app/" >
