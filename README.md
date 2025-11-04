@@ -50,14 +50,14 @@
 ###  Programming
 <table>
 <tr>
-<td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="35"/><br>C++</td>
-<td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="35"/><br>Java</td>
-<td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="35"/><br>C#</td>
-<td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="35"/><br>PHP</td>
-<td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35"/><br>JavaScript</td>
-<td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35"/><br>HTML</td>
-<td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35"/><br>CSS</td>
-<td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="35"/><br>R (Basic)</td>
+<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/><br>C++</td>
+<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/><br>Java</td>
+<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45"/><br>C#</td>
+<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45"/><br>PHP</td>
+<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/><br>JavaScript</td>
+<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/><br>HTML</td>
+<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/><br>CSS</td>
+<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="45"/><br>R (Basic)</td>
 </tr>
 </table>
 
@@ -66,13 +66,14 @@
 ###  Frameworks & Tools
 <table>
 <tr>
-<td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="35"/><br>.NET</td>
-<td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35"/><br>React</td>
-<td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="35"/><br>Android Studio</td>
-<td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="35"/><br>Firebase</td>
-<td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="35"/><br>VS</td>
-<td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="35"/><br>VS Code</td>
-<td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" width="35"/><br>NetBeans</td>
+<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="45"/><br>.NET Framework</td>
+<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/><br>React (Learning)</td>
+<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="45"/><br>Android Studio</td>
+<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45"/><br>Firebase</td>
+<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" width="45"/><br>R Studio</td>
+<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="45"/><br>Visual Studio</td>
+<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/><br>VS Code</td>
+<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" width="45"/><br>NetBeans</td>
 </tr>
 </table>
 
@@ -81,12 +82,12 @@
 ###  Databases & Backend
 <table>
 <tr>
-<td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="35"/><br>MySQL</td>
-<td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="35"/><br>PHPMyAdmin</td>
-<td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="35"/><br>APIs</td>
-<td align="center" width="90"><img src="https://jwt.io/img/pic_logo.svg" width="35"/><br>JWT</td>
-<td align="center" width="90"><img src="https://cdn-icons-png.flaticon.com/512/875/875646.png" width="35"/><br>File I/O</td>
-<td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="35"/><br>SQLite</td>
+<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/><br>MySQL</td>
+<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45"/><br>PHPMyAdmin</td>
+<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45"/><br>REST APIs</td>
+<td align="center" width="120"><img src="https://jwt.io/img/pic_logo.svg" width="45"/><br>JWT / Sessions</td>
+<td align="center" width="120"><img src="https://cdn-icons-png.flaticon.com/512/875/875646.png" width="45"/><br>File I/O</td>
+<td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45"/><br>SQL</td>
 </tr>
 </table>
 
@@ -95,65 +96,39 @@
 ###  Data & Analytics
 <table>
 <tr>
-<td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35"/><br>Data Structures</td>
-<td align="center" width="110"><img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" width="35"/><br>Excel</td>
-<td align="center" width="110"><img src="https://cdn-icons-png.flaticon.com/512/2103/2103845.png" width="35"/><br>Business Analytics</td>
+<td align="center" width="150"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45"/><br>Database Design</td>
+<td align="center" width="150"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/><br>Data Structures & Algorithms</td>
+<td align="center" width="150"><img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" width="45"/><br>Excel Dashboards</td>
+<td align="center" width="150"><img src="https://cdn-icons-png.flaticon.com/512/2103/2103845.png" width="45"/><br>Business Analytics</td>
 </tr>
 </table>
 
 ---
 
-###  Collaboration
+###  Collaboration & Workflow
 <table>
 <tr>
-<td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="35"/><br>Jira</td>
-<td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="35"/><br>Trello</td>
-<td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35"/><br>GitHub</td>
+<td align="center" width="150"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="45"/><br>Agile</td>
+<td align="center" width="150"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="45"/><br>Project Management</td>
 </tr>
 </table>
 
+---
+
 </div>
 
-
 ##  GitHub Analytics
-<!-- ========================= -->
-<!--  GITHUB ANALYTICS SECTION -->
-<!-- ========================= -->
-<h2 align="center">📊 GitHub Analytics & Insights</h2>
-
 <p align="center">
-  <a href="https://github.com/kavindiR">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kavindiR&theme=github_dark" alt="Kavindi's GitHub Profile Summary" width="90%"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=kavindiR&show_icons=true&theme=chartreuse-dark&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavindiR&layout=compact&theme=chartreuse-dark&hide_border=true" height="165" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/kavindiR">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kavindiR&theme=chartreuse-dark&hide_border=true&fire=66FF00&ring=66FF00" alt="GitHub Streak" height="160"/>
-  </a>
-  <a href="https://github.com/kavindiR">
-    <img src="https://github-readme-stats.vercel.app/api?username=kavindiR&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="160"/>
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=kavindiR&theme=matrix&no-frame=true&margin-w=10" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/kavindiR">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavindiR&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=8" alt="Top Languages" height="160"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/kavindiR">
-    <img src="https://github-contributor-stats.vercel.app/api?username=kavindiR&limit=5&theme=chartreuse-dark&combine_all_yearly_contributions=true&hide_border=true" alt="Contributor Stats" height="160"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="90%"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kavindiR&label=Profile+Views&color=66FF00&style=for-the-badge" alt="Profile views counter"/>
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
