@@ -1,20 +1,20 @@
 <!-- ========================= -->
-<!-- 🌐 SOCIAL LINKS ON TOP -->
+<!--  SOCIAL LINKS ON TOP -->
 <!-- ========================= -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourlinkedin/" target="_blank">
+  <a href="www.linkedin.com/in/kavindirajapaksha" >
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:youremail@gmail.com">
+  <a href="kavindiiirajapakshe@gmail.com">
     <img src="https://img.shields.io/badge/Email-DB4437?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://your-portfolio-link.com/" target="_blank">
+  <a href="https://kavindirajapaksha.vercel.app/" >
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
   </a>
 </p>
 
 <!-- ========================= -->
-<!-- 🏷️ HEADER -->
+<!--  HEADER -->
 <!-- ========================= -->
 <h1 align="center" style="color:#66FF00; font-weight:600;">
   Kavindi Rajapaksha
@@ -43,11 +43,11 @@
 
 ---
 
-## ⚙️ Technical Skills
+##  Technical Skills
 
 <div align="center">
 
-### 🧩 Programming
+###  Programming
 <table>
 <tr>
 <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/><br>C++</td>
@@ -63,7 +63,7 @@
 
 ---
 
-### 🧰 Frameworks & Tools
+###  Frameworks & Tools
 <table>
 <tr>
 <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="45"/><br>.NET Framework</td>
@@ -79,7 +79,7 @@
 
 ---
 
-### 🗄️ Databases & Backend
+###  Databases & Backend
 <table>
 <tr>
 <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/><br>MySQL</td>
@@ -93,7 +93,7 @@
 
 ---
 
-### 📊 Data & Analytics
+###  Data & Analytics
 <table>
 <tr>
 <td align="center" width="150"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45"/><br>Database Design</td>
@@ -105,7 +105,7 @@
 
 ---
 
-### 🔧 Collaboration & Workflow
+###  Collaboration & Workflow
 <table>
 <tr>
 <td align="center" width="150"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="45"/><br>Agile</td>
@@ -117,7 +117,7 @@
 
 </div>
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kavindiR&show_icons=true&theme=chartreuse-dark&hide_border=true" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavindiR&layout=compact&theme=chartreuse-dark&hide_border=true" height="165" />
