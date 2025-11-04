@@ -1,98 +1,133 @@
-<!-- kavindiR/README.md -->
+<!-- HEADER -->
+<h1 align="center" style="color:#65FE08; font-weight:600;">
+  Kavindi Rajapaksha
+</h1>
+<h3 align="center" style="color:white; font-weight:400;">
+  Creative Developer & AI Enthusiast <br>
+  Building the future of digital experiences
+</h3>
 
-<div align="center" style="background-color:#0D1117; color:#65FE08; padding:25px; border-radius:10px;">
-
-# 🌌 Kavindi Rajapaksha  
-### <span style="color:#65FE08;">Creative Developer & AI Enthusiast</span>  
-*Building the future of digital experiences*
-
-</div>
-
----
-
-<div style="color:#65FE08;">
-
-### 👋 Hi there
-
-I’m an Information Technology undergraduate who loves crafting elegant, functional, and user-focused digital experiences.  
-Currently exploring the balance between creative design and powerful backend systems.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=65FE08&center=true&vCenter=true&width=600&lines=Software+Engineering+Undergraduate;Full-Stack+Developer;UI%2FUX+Designer;AI+Learner+%7C+Generative+AI+Explorer" alt="Typing SVG" />
+</p>
 
 ---
 
-### 🪴 About Me
-- 💻 Focused on full-stack web development and UI/UX design  
-- 🌱 Learning modern frameworks like React and exploring Generative AI  
-- 🧩 Interested in data analytics, clean architecture, and scalable systems  
-- 🎨 I enjoy designing minimal, aesthetic, and intuitive user interfaces  
-- ☕ Always curious to learn, build, and grow in the tech world  
+### 🌌 About Me
+
+> I'm a passionate **Software Engineering undergraduate** who loves blending beautiful design with cutting-edge technology.  
+> My journey is driven by how **intelligent systems** can create intuitive, elegant, and human-centered digital experiences.
+
+- Focused on full-stack web development and UI/UX design  
+- Learning React and exploring Generative AI  
+- Interested in data analytics, architecture, and scalable systems  
+- Enthusiastic about creating minimal yet functional interfaces  
+- Constantly learning, building, and exploring
 
 ---
 
-### ⚙️ Technical Skills
+## ⚙️ Technical Skills
 
 <div align="center">
 
-#### 💻 Programming  
-[![My Skills](https://skillicons.dev/icons?i=cpp,java,cs,php,js,html,css,r&theme=dark)](https://skillicons.dev)
-
-#### 🧰 Frameworks & Tools  
-[![My Skills](https://skillicons.dev/icons?i=dotnet,react,androidstudio,firebase,rstudio,vscode,visualstudio,netbeans&theme=dark)](https://skillicons.dev)
-
-#### 🗄️ Databases & Backend  
-[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,php,postman,linux&theme=dark)](https://skillicons.dev)
-
-#### 📊 Data & Analytics  
-[![My Skills](https://skillicons.dev/icons?i=excel,r,mysql,cpp&theme=dark)](https://skillicons.dev)
-
-#### 🤝 Collaboration & Workflow  
-[![My Skills](https://skillicons.dev/icons?i=git,github,trello,notion&theme=dark)](https://skillicons.dev)
-
-#### 🌱 Emerging Technologies  
-[![My Skills](https://skillicons.dev/icons?i=ai,python,docker&theme=dark)](https://skillicons.dev)
+<table>
+<tr>
+<td align="center" width="200">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/><br>
+  <b>Java</b>
+</td>
+<td align="center" width="200">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/><br>
+  <b>C++</b>
+</td>
+<td align="center" width="200">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45"/><br>
+  <b>C#</b>
+</td>
+<td align="center" width="200">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45"/><br>
+  <b>PHP</b>
+</td>
+</tr>
+<tr>
+<td align="center" width="200">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/><br>
+  <b>JavaScript</b>
+</td>
+<td align="center" width="200">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/><br>
+  <b>HTML</b>
+</td>
+<td align="center" width="200">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/><br>
+  <b>CSS</b>
+</td>
+<td align="center" width="200">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/><br>
+  <b>React (Learning)</b>
+</td>
+</tr>
+<tr>
+<td align="center" width="200">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45"/><br>
+  <b>Firebase</b>
+</td>
+<td align="center" width="200">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/><br>
+  <b>MySQL</b>
+</td>
+<td align="center" width="200">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/><br>
+  <b>VS Code</b>
+</td>
+<td align="center" width="200">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/><br>
+  <b>Git & GitHub</b>
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-### 🪶 Certifications
-- 🧠 **Postman API Fundamentals Student Expert** — *Postman Certified*  
-- 💡 **Explore Generative AI** — *Microsoft Learning*  
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kavindiR&show_icons=true&theme=chartreuse-dark&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavindiR&layout=compact&theme=chartreuse-dark&hide_border=true" height="165" />
+</p>
 
 ---
 
-### 📊 GitHub Overview
+## 🌐 Connect With Me
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=kavindiR&show_icons=true&bg_color=0D1117&title_color=65FE08&icon_color=65FE08&text_color=65FE08&hide_border=true" />  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavindiR&layout=compact&bg_color=0D1117&title_color=65FE08&text_color=65FE08&hide_border=true" />
-
-</div>
-
----
-
-### 🔗 Connect with Me  
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/yourlinkedin/">
-  <img src="https://img.shields.io/badge/LinkedIn-65FE08?style=for-the-badge&logo=linkedin&logoColor=000000" />
-</a>
-<a href="https://your-portfolio-link.com/">
-  <img src="https://img.shields.io/badge/Portfolio-65FE08?style=for-the-badge&logo=About.me&logoColor=000000" />
-</a>
-<a href="mailto:youremail@gmail.com">
-  <img src="https://img.shields.io/badge/Email-65FE08?style=for-the-badge&logo=gmail&logoColor=000000" />
-</a>
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/yourlinkedin/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:youremail@gmail.com">
+    <img src="https://img.shields.io/badge/Email-DB4437?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://your-portfolio-link.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+  </a>
+  <a href="https://github.com/kavindiR" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-<div align="center" style="color:#65FE08; font-style:italic;">
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kavindiR&theme=matrix&no-frame=true&margin-w=10" />
+</p>
 
-> “Simplicity is the ultimate sophistication.” — Leonardo da Vinci
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
 
-</div>
-
-</div>
+---
+<p align="center">
+  <i style="color:#65FE08;">“Simplicity is the ultimate sophistication.” — Leonardo da Vinci</i>
+</p>
